@@ -7,6 +7,11 @@ body {
 	width: 250px;
 	margin: 0 auto;
 }
+.simple {
+	font-family: 'Courier New', Courier, monospace;
+	color: rgb(189, 108, 108);
+	font-style: italic;
+}
 
 .push_button {
 	position: relative;
